@@ -61,6 +61,8 @@ checkpoint_path為此次訓練資料之名稱與路徑資料夾(data)。
 
 第一階段:會先開始訓練,按Enter鍵可以結束訓練並進入第二階段。
 
+訓練後會在colab目錄中content資料夾內生成data資料夾,並將訓練資料放入。
+
 第二階段:會開始玩遊戲,並持續輸出每次玩的結果,按下Enter鍵結束。
 
 
@@ -73,7 +75,9 @@ checkpoint_path為此次訓練資料之名稱與路徑資料夾(data)。
 
 
 
-checkpoint_path 是將訓練資料放入data資料夾內,在colab上的話需要在目錄中content資料夾內自創data資料夾,並將訓練資料checkpoint01的資料夾放入,checkpoint01為訓練5小時的資料。
+checkpoint_path 是將訓練資料放入data資料夾內,在colab上的話需要在目錄中content資料夾內自創data資料夾,並將訓練資料checkpoint01的資料夾放入。
+
+checkpoint01為訓練5小時的資料。此檔案在github中data資料夾內。
 
 train_episodes是選擇要不要接續訓練,這裡為0所以輸出會自動跳過訓練階段,並直接顯示第二階段玩遊戲的結果。
 
