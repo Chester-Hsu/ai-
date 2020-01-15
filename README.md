@@ -77,7 +77,7 @@ checkpoint_path 是將訓練資料放入data資料夾內再colab上的話需要�
 附註
 ----
 
-主程式每執行一次都要整個程式reset重跑
+主程式Main每執行一次都要整個程式reset重跑
 
 
 
