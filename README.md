@@ -15,8 +15,8 @@ Carracing 這個遊戲的action為連續動作[方向為(-1 ~ 1),油門為(0 ~ 1
 程式執行步驟:
 ------------
 
-1.導入BOX.2D套件
-2.導入相關函式庫
+1.導入BOX.2D套件/n
+2.導入相關函式庫/n
 3.導入Video 相關套件
 4.宣告ExperienceHistory
 5.宣告Agent
