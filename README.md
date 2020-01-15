@@ -28,6 +28,12 @@ checkpoint_path 是將訓練資料放入data資料夾內再colab上的話需要�
 
 結果評估
 
+
+![image](image/1579087430063.jpg)
+
+
+
+
 使用隨機策略玩5回合的結果為
 
 使用DQL模型的遊戲結果
