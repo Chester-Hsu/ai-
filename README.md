@@ -33,6 +33,8 @@ load_checkpoint代表是否載入過去訓練資料。 checkpoint_path為此次�
 checkpoint_path 是將訓練資料放入data資料夾內再colab上的話需要再content內自創data資料夾,並將訓練資料的資料夾放入。 train_episodes是選擇要不要接續訓練,這裡為0所以輸出會自動跳過訓練階段,並直接顯示第二階段玩遊戲的結果。
 
 結果評估
+
+
 使用隨機策略玩5回合的結果為
 
 
@@ -44,6 +46,9 @@ checkpoint_path 是將訓練資料放入data資料夾內再colab上的話需要�
 
 
 ![image](image/1579087000633.jpg)
+
+
+績效得到明顯提升並接近最終目標reward = 900分。
 
 
 
