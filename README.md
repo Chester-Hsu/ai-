@@ -1,6 +1,14 @@
 使用DQL訓練OPEN_AI_GYM_CARRACING_V0
 ===================================
 
+OpenAI Gym (the car-racing environment)
+
+Tensorflow 1.0.0
+
+numpy
+
+scikit-image
+
 
 使用COLAB環境執行程式
 --------------------
