@@ -1,4 +1,4 @@
-使用DQL訓練OPEN_AI_GYM CARRACING_V0
+使用DQL訓練OPEN_AI_GYM_CARRACING_V0
 ===================================
 
 
